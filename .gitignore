@@ -27,7 +27,10 @@ share/python-wheels/
 *.egg
 MANIFEST
 config.py
-
+ratings.csv
+ETL_Deliverable1_starter_code.ipynb
+ETL_Deliverable2_starter_code.ipynb
+ETL_Deliverable3_starter_code.ipynb
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
